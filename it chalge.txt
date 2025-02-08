@@ -1,0 +1,6 @@
+the flag :MicroCTF{VincentVanGogh _MoMA}
+
+First, I started by searching for what OSINT means in the first place.
+Then, I Googled the picture.
+After that, I found a Wikipedia article that talked about that picture.
+I took the necessary information and then generated the flag.
